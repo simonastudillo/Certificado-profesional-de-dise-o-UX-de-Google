@@ -4,3 +4,10 @@
    - [ ] Cómo crea un producto un diseñador
    - [x] Cómo se siente una persona, el usuario, al interactuar o experimentar un producto
 > La experiencia del usuario es lo que siente una persona, el usuario, al interactuar o experimentar un producto.
+
+- ¿Qué cualidades son necesarias en un producto para que los usuarios tengan una buena experiencia? Seleccione todas las que correspondan.
+   - [x] Disfrute
+   - [x] Utilidad
+   - [ ] Negociabilidad
+   - [x] Equidad
+> Un producto útil, equitativo y agradable contribuye a una buena experiencia del usuario.
