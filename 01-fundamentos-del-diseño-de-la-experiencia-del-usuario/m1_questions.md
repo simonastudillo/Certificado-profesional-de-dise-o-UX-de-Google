@@ -16,5 +16,10 @@
    - [ ] Diseñador de interacciones
    - [ ] Diseñador visual
    - [ ] Diseñador de movimiento
-   - [ ] director del programa de UX
+   - [x] director del programa de UX
 > Los directores del programa de UX no se consideran un tipo de diseñador de UX. Sin embargo, ayudan a garantizar una comunicación oportuna para que el proceso de construcción de un producto útil se desarrolle sin problemas desde el principio hasta el final. 
+
+- Wireframing, prototipos, investigación y creación de la arquitectura de la información son las responsabilidades habituales de un diseñador de UX principiante. 
+   - [x] Verdadero
+   - [ ] Falso
+> De un diseñador de UX principiante puede esperarse que realice cualquiera de estas tareas. 
