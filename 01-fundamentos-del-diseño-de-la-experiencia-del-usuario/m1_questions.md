@@ -28,3 +28,10 @@
    - [ ] Verdadero
    - [x] Falso
 > Los diseñadores especialistas suelen ser más habituales en las grandes empresas, donde la organización puede permitirse tener un gran equipo de diseñadores de UX.
+
+- ¿En qué se centra una agencia de diseño? 
+   - [ ] Diseño y branding
+   - [ ] Investigación de productos
+   - [ ] Marketing y publicidad
+   - [ ] Análisis de datos de Campaña
+> Las agencias de diseño o los estudios de diseño ofrecen servicios de diseño y creación de marcas.
