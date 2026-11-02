@@ -23,3 +23,8 @@
    - [x] Verdadero
    - [ ] Falso
 > De un diseñador de UX principiante puede esperarse que realice cualquiera de estas tareas. 
+
+- Los diseñadores de UX especialistas son más comunes en empresas más pequeñas con menos empleados.
+   - [ ] Verdadero
+   - [x] Falso
+> Los diseñadores especialistas suelen ser más habituales en las grandes empresas, donde la organización puede permitirse tener un gran equipo de diseñadores de UX.
