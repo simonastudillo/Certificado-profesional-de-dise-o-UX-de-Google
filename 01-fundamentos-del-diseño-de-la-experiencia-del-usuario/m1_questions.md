@@ -11,3 +11,10 @@
    - [ ] Negociabilidad
    - [x] Equidad
 > Un producto útil, equitativo y agradable contribuye a una buena experiencia del usuario.
+
+- ¿Cuál de los siguientes NO es un tipo de diseñador de la experiencia del usuario?
+   - [ ] Diseñador de interacciones
+   - [ ] Diseñador visual
+   - [ ] Diseñador de movimiento
+   - [ ] director del programa de UX
+> Los directores del programa de UX no se consideran un tipo de diseñador de UX. Sin embargo, ayudan a garantizar una comunicación oportuna para que el proceso de construcción de un producto útil se desarrolle sin problemas desde el principio hasta el final. 
