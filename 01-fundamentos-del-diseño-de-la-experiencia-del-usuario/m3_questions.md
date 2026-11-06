@@ -10,3 +10,10 @@
    - [ ] Comprenda
    - [ ] Decida
 > Este es un ejemplo de la fase Comprender porque el Equipo se tomó tiempo para aprender de los expertos del sector y entablar conversaciones con ellos. Estos pasos ayudan a los Miembros del equipo a comprender el reto de diseño con mayor claridad.
+
+- A la hora de planificar un design sprint, ¿qué debe buscar en un espacio de reunión para garantizar la mejor experiencia a todos los participantes? Seleccione todo lo que corresponda.
+   - [x] Pizarras para plasmar sus ideas o colgar notas adhesivas
+   - [x] Muebles cómodos que pueda mover con facilidad
+   - [x] Acomodaciones para quien las necesite
+   - [ ] La ubicación está cerca de sus oficinas
+> Los espacios con pizarras blancas son ideales para los design sprint porque se pueden plasmar las ideas con facilidad. También es buena idea asegurarse de que se hacen adaptaciones para quien las necesite, y encontrar espacios con muebles cómodos que puedan moverse con facilidad.
