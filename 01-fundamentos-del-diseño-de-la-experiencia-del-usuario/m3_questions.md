@@ -17,3 +17,8 @@
    - [x] Acomodaciones para quien las necesite
    - [ ] La ubicación está cerca de sus oficinas
 > Los espacios con pizarras blancas son ideales para los design sprint porque se pueden plasmar las ideas con facilidad. También es buena idea asegurarse de que se hacen adaptaciones para quien las necesite, y encontrar espacios con muebles cómodos que puedan moverse con facilidad.
+
+- Durante la fase de decisión en un design sprint, los Miembros del equipo deciden la solución con mayores posibilidades de éxito.
+   - [ ] Verdadero
+   - [ ] Falso
+> Durante la fase de decisión, el Equipo de diseño evalúa todas las soluciones potenciales y vota por la que tiene más potencial.
