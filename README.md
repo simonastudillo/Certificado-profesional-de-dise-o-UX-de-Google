@@ -1,4 +1,4 @@
-# Certificado Profesional de Análisis de datos de Google
+# Certificado Profesional de Diseño UX de Google
 - Follow the design process: empathize with users, define pain points, ideate solutions, create wireframes and prototypes, test and iterate on designs
 - Understand the basics of UX research, like planning research studies, conducting interviews and usability studies, and synthesizing research results
 - Apply foundational UX concepts, like user-centered design, accessibility, and equity-focused design
