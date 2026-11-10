@@ -69,18 +69,86 @@
 ## Índice
 
 - Módulo 1: Introducción al diseño de la experiencia del usuario
+   - [Comenzar el Programa](./m1_01.md)
+   - [Conozca el diseño de la experiencia del usuario](./m1_02.md)
+   - [Seguir una carrera en diseño UX](./m1_03.md)
+   - [Revisión del Módulo 1](./m1_04.md)
 - Módulo 2: Pensar como un diseñador de UX
+   - [Conozca las mejores prácticas y tendencias del diseño UX](./m2_01.md)
+   - [Conozca al usuario](./m2_02.md)
+   - [Revisión del Módulo 2](./m2_03.md)
 - Módulo 3: Unirse a los design sprint
+   - [El framework del diseño UX](./m3_01.md)
+   - [Comprender los design sprint](./m3_02.md)
+   - [Planificación de design sprint](./m3_03.md)
+   - [Participe en los design sprint](./m3_04.md)
+   - [Reflexionar sobre los design sprint](./m3_05.md)
+   - [Revisión del Módulo 3](./m3_06.md)
 - Módulo 4: Introducción al Proyecto Portfolio
+   - [Más información sobre portafolios de diseño UX](./m4_01.md)
+   - [Revisión del Módulo 4](./m4_02.md)
+   - [Revisión del curso](./m4_03.md)
 
 
 ## Habilidades y conceptos a aprender
 
 ### Habilidades técnicas (hard skills)
 
+- Investigación de usuarios (UX Research)
+- Entrevistas a usuarios (User Interviews)
+- Diseño de encuestas (Survey Design)
+- Formulación de problemas de usuario (Problem Framing)
+- Ideación de soluciones de diseño (Design Ideation)
+- Análisis competitivo de UX (UX Competitive Analysis)
+- Arquitectura de la información (Information Architecture)
+- Diseño de interacción (Interaction Design)
+- Creación de wireframes (Wireframing)
+- Prototipado de baja fidelidad (Low-Fidelity Prototyping)
+- Pruebas de usabilidad (Usability Testing)
+- Diseño para la accesibilidad (Accessibility Design)
+- Diseño web adaptable (Responsive Web Design)
+- Diseño de experiencias multiplataforma (Cross-Platform UX Design)
+- Planificación de sprints de diseño (Design Sprint Planning)
+- Elaboración de portafolios y casos de estudio de UX (UX Portfolio and Case Studies)
+
 ### Conceptos clave
 
+- Diseño de experiencia de usuario (User Experience Design, UX Design)
+- Usabilidad (Usability)
+- Utilidad del producto (Product Utility)
+- Diseño centrado en el usuario (User-Centered Design, UCD)
+- Pensamiento de diseño (Design Thinking)
+- Diseño iterativo (Iterative Design)
+- Diseño universal (Universal Design)
+- Diseño inclusivo (Inclusive Design)
+- Diseño centrado en la equidad (Equity-Focused Design)
+- Tecnologías de apoyo (Assistive Technology)
+- Alfabetización digital (Digital Literacy)
+- Puntos de dolor del usuario (User Pain Points)
+- Ciclo de vida del desarrollo de productos (Product Development Lifecycle)
+- Investigación primaria y secundaria (Primary and Secondary Research)
+- Investigación cualitativa y cuantitativa (Qualitative and Quantitative Research)
+- Sesgos en la investigación de usuarios (UX Research Bias)
+- Sprint de diseño (Design Sprint)
+- Retrospectiva de sprint (Sprint Retrospective)
+
 ### Habilidades transferibles (soft skills)
+
+- Empatía (Empathy)
+- Escucha activa (Active Listening)
+- Comunicación interpersonal (Interpersonal Communication)
+- Colaboración interdisciplinaria (Cross-Functional Collaboration)
+- Pensamiento crítico (Critical Thinking)
+- Pensamiento creativo (Creative Thinking)
+- Resolución de problemas (Problem Solving)
+- Toma de decisiones en equipo (Collaborative Decision-Making)
+- Priorización (Prioritization)
+- Gestión del tiempo (Time Management)
+- Facilitación de talleres (Workshop Facilitation)
+- Retroalimentación constructiva (Constructive Feedback)
+- Mejora continua (Continuous Improvement)
+- Presentación de ideas (Presentation Skills)
+- Narración de historias (Storytelling)
 
 ## Glosario
 
@@ -180,3 +248,27 @@
 
 
 ## Resumen de módulos
+
+### Módulo 1. Introducción al diseño de la experiencia del usuario
+
+La experiencia de usuario abarca lo que una persona percibe y siente al interactuar con un producto. El módulo propone cuatro criterios para evaluar un diseño. Es usable si se entiende y se puede manejar con facilidad, útil si resuelve una necesidad, equitativo si considera a personas con distintas capacidades y circunstancias, y agradable si la interacción resulta satisfactoria.
+
+El diseño de UX participa en todo el ciclo del producto, desde la generación de ideas y la definición del problema hasta el diseño, las pruebas y el lanzamiento. En los productos digitales, los comentarios posteriores al lanzamiento pueden dar lugar a nuevas versiones. Entre las responsabilidades de un perfil inicial están organizar el contenido y la navegación, esbozar pantallas y comunicar decisiones a investigación, ingeniería y gestión de producto. El módulo distingue perfiles generalistas, especialistas y en forma de T, que combinan conocimientos amplios con profundidad en una disciplina.
+
+### Módulo 2. Pensar como un diseñador de UX
+
+El diseño centrado en el usuario parte de comprender a las personas y su contexto, identificar sus necesidades, diseñar soluciones y evaluar si las satisfacen. El diseño universal busca que una solución pueda ser utilizada por el mayor número posible de personas. El diseño inclusivo considera distintas capacidades y circunstancias al tomar decisiones, mientras que el diseño centrado en la equidad da prioridad a las necesidades de grupos históricamente excluidos.
+
+La accesibilidad influye en decisiones concretas como el contraste, el texto alternativo de las imágenes y la compatibilidad con lectores de pantalla, controles por voz o dispositivos de conmutación. La alfabetización digital también afecta lo que una persona puede hacer con una interfaz. Al diseñar para varias plataformas, conviene adaptar la disposición del contenido y priorizar las tareas según el tamaño de pantalla, la forma de interacción y el contexto de uso.
+
+### Módulo 3. Unirse a los design sprint
+
+El pensamiento de diseño propone empatizar, definir, idear, prototipar y probar. Las entrevistas y la observación permiten comprender la experiencia de los usuarios y formular un problema concreto. Las preguntas «¿Cómo podríamos…?» convierten ese problema en una oportunidad para explorar alternativas. Los prototipos permiten poner a prueba las ideas con usuarios y ajustar el diseño a partir de lo observado.
+
+Un sprint de diseño aplica estas prácticas a una pregunta concreta del producto o del negocio en un periodo acotado. El equipo comprende el reto, genera alternativas, decide cuál probar, construye un prototipo y lo prueba con usuarios. La preparación incluye revisar la investigación disponible, convocar a las personas adecuadas y compartir un documento con el reto, los entregables, el calendario y los recursos. En la retrospectiva, el equipo revisa qué funcionó, qué dificultó el trabajo y qué cambiará en el siguiente sprint.
+
+### Módulo 4. Introducción al Proyecto Portfolio
+
+El portafolio de UX muestra a reclutadores y clientes cómo trabaja un diseñador. El sitio también demuestra su criterio de diseño mediante la organización de los proyectos, la facilidad de navegación y la claridad con que presenta cada caso. Un caso de estudio explica el problema, las decisiones tomadas y los aprendizajes, apoyándose en bocetos, capturas u otros materiales del proceso.
+
+La actividad del módulo consiste en elegir y justificar un reto de la lista del curso o de Sharpen. El reto se centra en una tarea concreta que una aplicación móvil debe resolver para una organización. En cursos posteriores, el mismo tema se retoma para diseñar un sitio web adaptable. La guía del proyecto ayuda a documentar las decisiones y reunir evidencias conforme avanza el trabajo.
